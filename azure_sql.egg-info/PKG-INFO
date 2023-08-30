@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: azure-sql
+Version: 0.1
+Summary: Um pacote para facilitar o create, insert, delete e drop table no Azure SQL
+Author: Nathália Martins
+Author-email: nathalia@akaua.com.br
